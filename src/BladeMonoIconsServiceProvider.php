@@ -19,7 +19,6 @@ final class BladeMonoIconsServiceProvider extends ServiceProvider
 
             $factory->add('mono-icons', array_merge(['path' => __DIR__.'/../resources/svg'], $config));
         });
-
     }
 
     private function registerConfig(): void
@@ -39,5 +38,4 @@ final class BladeMonoIconsServiceProvider extends ServiceProvider
             ], 'blade-mono-icons-config');
         }
     }
-
 }
