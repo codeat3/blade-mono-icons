@@ -2,7 +2,15 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
-## [Unreleased](https://github.com/codeat3/blade-mono-icons/compare/1.1.0...HEAD)
+## [Unreleased](https://github.com/codeat3/blade-mono-icons/compare/1.2.0...HEAD)
+
+## [1.2.0](https://github.com/codeat3/blade-mono-icons/compare/1.1.0...1.2.0) - 2023-02-18
+
+### What's Changed
+
+- Laravel 10 support by @swapnilsarwe in https://github.com/codeat3/blade-mono-icons/pull/2
+
+**Full Changelog**: https://github.com/codeat3/blade-mono-icons/compare/1.1.0...1.2.0
 
 ## [1.1.0](https://github.com/codeat3/blade-mono-icons/compare/1.0.0...1.1.0) - 2022-02-04
 
