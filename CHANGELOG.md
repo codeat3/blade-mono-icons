@@ -2,7 +2,16 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
-## [Unreleased](https://github.com/codeat3/blade-mono-icons/compare/1.2.0...HEAD)
+## [Unreleased](https://github.com/codeat3/blade-mono-icons/compare/1.3.0...HEAD)
+
+## [1.3.0](https://github.com/codeat3/blade-mono-icons/compare/1.2.0...1.3.0) - 2023-03-13
+
+### What's Changed
+
+- upgrade github action to php82 by @swapnilsarwe in https://github.com/codeat3/blade-mono-icons/pull/3
+- auto update action by @swapnilsarwe in https://github.com/codeat3/blade-mono-icons/pull/4
+
+**Full Changelog**: https://github.com/codeat3/blade-mono-icons/compare/1.2.0...1.3.0
 
 ## [1.2.0](https://github.com/codeat3/blade-mono-icons/compare/1.1.0...1.2.0) - 2023-02-18
 
